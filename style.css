@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(104, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container{
+    width: 50vw;
+    height: 75vh;
+    background-color: white;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 3rem;
+    color: rgb(188, 6, 6);
+    margin-top: 30px;
+}
+
+h3{
+    font-size: 2rem;
+    /* margin-bottom: 15px; */
+}
+
+.btn{
+    font-size: 1.2rem;
+    padding: 8px;
+    background-color: navy;
+    color: white;
+    border-radius: 5px;
+}
+
+h4{
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
